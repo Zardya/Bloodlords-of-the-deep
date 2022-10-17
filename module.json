@@ -1,0 +1,78 @@
+{
+  "name": "bloodlords-of-the-deep",
+  "title": "Bloodlords of the Deep",
+  "description": "",
+  "author": "Mammoth Factory",
+  "version": "0.11.6",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "1.0.0",
+  "system": "dnd5e",
+  "packs": [
+    {
+      "name": "journal",
+      "label": "Journal (Bloodlords of the Deep)",
+      "path": "packs/journal.db",
+      "module": "bloodlords-of-the-deep",
+      "entity": "JournalEntry",
+      "type": "JournalEntry",
+      "system": "dnd5e"
+    },
+    {
+      "name": "actors",
+      "label": "Actors (Bloodlords of the Deep)",
+      "path": "packs/actors.db",
+      "module": "bloodlords-of-the-deep",
+      "entity": "Actor",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes (Bloodlords of the Deep)",
+      "path": "packs/scenes.db",
+      "module": "bloodlords-of-the-deep",
+      "entity": "Scene",
+      "type": "Scene",
+      "system": "dnd5e"
+    },
+    {
+      "name": "tables",
+      "label": "Rollable Tables (Bloodlords of the Deep)",
+      "path": "packs/tables.db",
+      "module": "bloodlords-of-the-deep",
+      "entity": "RollTable",
+      "type": "RollTable",
+      "system": "dnd5e"
+    },
+    {
+      "name": "decks",
+      "label": "Decks (Bloodlords of the Deep)",
+      "path": "packs/decks.db",
+      "module": "bloodlords-of-the-deep",
+      "entity": "RollTable",
+      "type": "RollTable",
+      "system": "dnd5e"
+    },
+    {
+      "name": "magicitems",
+      "label": "Magic Items (Bloodlords of the Deep)",
+      "path": "packs/magicitems.db",
+      "module": "bloodlords-of-the-deep",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "cards",
+      "label": "Deck Cards (Bloodlords of the Deep)",
+      "path": "packs/cards.db",
+      "module": "bloodlords-of-the-deep",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
