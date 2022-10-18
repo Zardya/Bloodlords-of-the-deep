@@ -4,8 +4,8 @@
   "description": "",
   "author": "Mammoth Factory",
   "version": "0.11.6",
-  "minimumCoreVersion": "0.7.5",
-  "compatibleCoreVersion": "1.0.0",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
   "system": "dnd5e",
   "packs": [
     {
